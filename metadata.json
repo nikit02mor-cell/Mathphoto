@@ -1,0 +1,6 @@
+{
+  "name": "AI Решатель Задач по Фото",
+  "description": "Мгновенное решение математических, физических, химических и школьных задач по фотографии с пошаговыми объяснениями, формулами и интерактивным разбором от ИИ.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
