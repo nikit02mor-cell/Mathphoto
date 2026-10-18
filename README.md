@@ -10,6 +10,24 @@
 
 ---
 
+## 📱 Быстрая установка на Android
+
+[![Установить на Android](https://img.shields.io/badge/📲_Установить_на_Android-1--клик_PWA-10b981?style=for-the-badge)](https://ais-pre-5vj7e2tupksz7qdeeitjl7-544605080794.europe-west2.run.app)
+[![GitHub Releases](https://img.shields.io/badge/📦_GitHub_Releases-v1.0.0-6366f1?style=for-the-badge)](https://github.com/nikit02mor-cell/Mathphoto/releases)
+[![Скачать ZIP](https://img.shields.io/badge/⬇️_Скачать_ZIP-GitHub-3b82f6?style=for-the-badge)](https://github.com/nikit02mor-cell/Mathphoto/archive/refs/heads/main.zip)
+
+### 🚀 Способ 1: Мгновенная установка на телефон (Без Google Play)
+1. Откройте ссылку на телефоне в **Google Chrome**:  
+   👉 **[https://ais-pre-5vj7e2tupksz7qdeeitjl7-544605080794.europe-west2.run.app](https://ais-pre-5vj7e2tupksz7qdeeitjl7-544605080794.europe-west2.run.app)**
+2. Вверху экрана нажмите зеленую кнопку **«Скачать на Android»** (или в меню браузера `⋮` выберите **«Установить приложение»** / **«Добавить на главный экран»**).
+3. Иконка приложения **«Решатель»** появится на рабочем столе смартфона, запускается во весь экран и работает с камерой нативно!
+
+### 📦 Способ 2: Скачать с GitHub
+- **[Скачать архив проекта (ZIP)](https://github.com/nikit02mor-cell/Mathphoto/archive/refs/heads/main.zip)**
+- **[Страница релизов (Releases)](https://github.com/nikit02mor-cell/Mathphoto/releases)**
+
+---
+
 ## ✨ Возможности приложения
 
 - **📸 Все способы ввода изображения:**
