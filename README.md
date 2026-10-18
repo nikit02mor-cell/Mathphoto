@@ -48,8 +48,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/ВАШ_АККАУНТ/ai-photo-task-solver.git
-cd ai-photo-task-solver
+git clone https://github.com/nikit02mor-cell/Mathphoto.git
+cd Mathphoto
 ```
 
 ### 2. Установка зависимостей
