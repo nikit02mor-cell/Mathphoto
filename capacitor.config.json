@@ -1,0 +1,9 @@
+{
+  "appId": "com.mathphoto.solver",
+  "appName": "Mathphoto",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
