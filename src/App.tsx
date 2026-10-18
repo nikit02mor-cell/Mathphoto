@@ -25,6 +25,7 @@ import { CameraModal } from './components/CameraModal.tsx';
 import { ImageCropModal } from './components/ImageCropModal.tsx';
 import { SolutionView } from './components/SolutionView.tsx';
 import { HistoryDrawer } from './components/HistoryDrawer.tsx';
+import { PWAInstallButton } from './components/PWAInstallButton.tsx';
 
 const SUBJECT_OPTIONS = [
   { id: 'auto', label: 'Автоопределение', icon: Sparkles },
@@ -301,6 +302,8 @@ export default function App() {
               <Sparkles className="w-3.5 h-3.5 text-indigo-500" />
               Gemini 3.8 Flash
             </span>
+
+            <PWAInstallButton />
 
             <button
               onClick={() => setIsHistoryOpen(true)}

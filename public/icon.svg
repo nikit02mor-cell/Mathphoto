@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="50%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#312e81" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <!-- Background Squircle -->
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+
+  <!-- Subtle camera chassis outline -->
+  <rect x="96" y="140" width="320" height="250" rx="48" fill="#ffffff" fill-opacity="0.15" filter="url(#shadow)"/>
+  <path d="M 180 140 L 210 96 L 302 96 L 332 140 Z" fill="#ffffff" fill-opacity="0.18"/>
+
+  <!-- Lens Circle -->
+  <circle cx="256" cy="265" r="95" fill="#ffffff" fill-opacity="0.22"/>
+  <circle cx="256" cy="265" r="80" fill="#0f172a" fill-opacity="0.3"/>
+
+  <!-- Math Sigma Symbol (Σ) in lens -->
+  <path d="M 226 215 L 286 215 L 254 265 L 286 315 L 226 315 L 226 303 L 268 303 L 244 265 L 268 227 L 226 227 Z" fill="#ffffff" font-weight="bold"/>
+
+  <!-- Lens reflection highlight -->
+  <circle cx="285" cy="235" r="14" fill="#ffffff" fill-opacity="0.5"/>
+
+  <!-- AI Sparkle at top right -->
+  <path d="M 370 120 Q 370 145 395 145 Q 370 145 370 170 Q 370 145 345 145 Q 370 145 370 120 Z" fill="#facc15"/>
+</svg>
